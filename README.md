@@ -1,1 +1,1 @@
-# KMeans-UofT-Cryptocurrencies
+# ML-KMeans-UofT-Cryptocurrencies
